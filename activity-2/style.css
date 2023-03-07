@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1 {
+    background-color: pink;
+    font-weight: bold;
+    padding: 32px 12px;
+    border: 1px solid rgb(67, 0, 250);
+    width: 490px;
+    border-radius: 2px;
+}
+
+.div2 {
+    background-color: rgba(104, 220, 255, 0.74);
+    font-weight: bold;
+    border: 1px solid rgba(255, 0, 0, 0.61);
+    margin-top: 5px;
+    width: 500px;
+    border-radius: 2px;
+}
+
+.div3 {
+    background-color: rgb(219, 172, 70);
+    padding: 32px;
+    margin-right: 40px;
+    border-radius: 1px;
+    margin-top: 48px;
+    width: 200px;
+    border: 1px solid rgba(255, 0, 0, 0.61);
+    border-radius: 2px;
+    float: right;
+}
